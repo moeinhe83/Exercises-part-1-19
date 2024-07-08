@@ -4,7 +4,7 @@ Question Number ===> 19
 
 Programming Language ===> Python
 
-Program description ===> 19th Exercise
+Program Description ===> 19th Exercise
 
 Example ===> Write A Program To Display The First And Last Color Of The List Below
 
